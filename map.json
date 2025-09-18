@@ -2,7 +2,8 @@
   "maps": [
     {
       "url": "map.tmj",
-      "script": "scripts/main.js"
+      "script": "scripts/main.js",
+      "name": "Main Map"
     }
   ]
 }
